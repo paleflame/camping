@@ -1,0 +1,39 @@
+img {
+    height:400px;
+}
+
+p {
+    color: rgb(128, 0, 168);
+    line-height: 1.25;
+    margin-bottom: 1em;
+  }
+
+body { background-color: rgb(203, 241, 255); }
+
+h1 {
+    color:rgba(0, 119, 149, 0.729)
+}
+
+h2 {
+    color:rgb(0, 27, 147)
+}
+
+li {
+    color:rgb(140, 0, 255)
+}
+
+.camp {
+    display: flex;
+
+}
+
+.gal {
+    display: flex;
+    justify-content: space-around;
+}
+
+.gal2 img {
+    height: 200px;  
+}
+
+
